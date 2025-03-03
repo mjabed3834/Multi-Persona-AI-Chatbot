@@ -11,6 +11,14 @@ This project is a **multi-persona AI chatbot** that leverages the power of **Goo
 The chatbot is built with **Flask** as the backend and utilizes **HTML**, **CSS**, and **JavaScript** for a simple yet interactive frontend.
 
 ---
+### Sample Responses
+Here are some example responses from the chatbot:
+
+**Viper's Response:**
+![Viper Sample Response](response1.png)
+
+**Seraphina's Response:**
+![Seraphina Sample Response](response2.png)
 
 ## Features
 
