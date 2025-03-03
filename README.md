@@ -18,7 +18,7 @@ Here are some example responses from the chatbot:
 ![Viper Sample Response](Screenshot 2025-03-03 185512.png)
 
 **Seraphina's Response:**
-![Seraphina Sample Response](response2.png)
+![Seraphina Sample Response](Screenshot 2025-03-03 185424.png)
 
 ## Features
 
